@@ -12,7 +12,7 @@ import json
 import mongodb
 import Fundamental_Analysis
 import Institutional_Investors
-import Standard_Deviation
+#import Standard_Deviation
 import Technical_Analysis
 
 app = Flask(__name__)
